@@ -1,0 +1,72 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevBox-Santé pour les Professionnels de Santé – Autorisation patient</title>
+    <link>/guide/connexion/autorisation/</link>
+    <description>Recent content in Autorisation patient on DevBox-Santé pour les Professionnels de Santé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	  <atom:link href="/guide/connexion/autorisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Guide: Bris de glace</title>
+      <link>/guide/connexion/autorisation/bris-de-glace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/connexion/autorisation/bris-de-glace/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Selection du mode bris de glace&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quand vous êtes en accès bris de glace, ceci vous l&amp;rsquo;est signalé
+dans la barre de menue:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;appBar.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ou encore comme ceci :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;snackBar.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Le PS utilise le mode d’accès « bris de glace » lorsque celui-ci a besoin de consulter le DMP d’un patient en cas d’urgence, sans avoir la possibilité de lui demander son autorisation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Connexion secrète</title>
+      <link>/guide/connexion/autorisation/connexion_secrete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/connexion/autorisation/connexion_secrete/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Connexion secrète&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il est possible de mettre en place une connexion secrète pour les mineurs dans le Dossier Médical Partagé (DMP), en concertation avec le patient mineur.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;connexionSecrete.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Quand vous êtes en accès connexion secrète, ceci vous l&amp;rsquo;est signaler pas la suite dans la barre de menue:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;appBar.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ou encore comme ceci :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;snackBar.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Le système DMP offre, aux représentants légaux du patient, un accès au DMP du patient.
+Dans le cadre de la protection des personnes mineures et des secrets à préserver vis-à-vis de leurs représentants légaux, les LPS doivent permettre à l&amp;rsquo;occasion du colloque
+PS / patient les actions suivantes :&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Connexion secrète au DMP (traces non visibles aux représentants légaux du patient) ;&lt;/li&gt;
+&lt;li&gt;Dépôt de documents « invisibles aux représentants légaux du patient » ;&lt;/li&gt;
+&lt;li&gt;Passage des documents « invisibles aux représentants légaux du patient » au statut
+« visible aux représentants légaux du patient ».
+(Guide d&amp;rsquo;intégration du DMP)&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

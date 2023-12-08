@@ -1,0 +1,116 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevBox-Santé pour les Professionnels de Santé – Documents</title>
+    <link>/guide/dmp/documents/</link>
+    <description>Recent content in Documents on DevBox-Santé pour les Professionnels de Santé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	  <atom:link href="/guide/dmp/documents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Guide: Consulter les documents</title>
+      <link>/guide/dmp/documents/consulter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/dmp/documents/consulter/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Consulter les métadonnées&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour consulter les différentes métadonnées d&amp;rsquo;un document, il vous suffit de cliquer dessus. Lorsque vous cliquez sur le document souhaité, une nouvelle fenêtre ou une section dédiée s&amp;rsquo;ouvre, affichant les métadonnées associées à ce document.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;doc1.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Les métadonnées d&amp;rsquo;un document peuvent inclure des informations telles que le nom du document, la date de création, le type de fichier, l&amp;rsquo;auteur, la date de modification, etc. Ces métadonnées fournissent des détails supplémentaires sur le document qui peuvent être utiles pour identifier et gérer efficacement les informations médicales du patient.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;metadonnees.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Visualiser le document&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour visualiser les documents, il vous suffit de cliquer sur &lt;strong&gt;l&amp;rsquo;icône représentant un œil&lt;/strong&gt; située à droite du document dans la liste.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;doc2.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Lorsque vous cliquez sur cette icône, le document s&amp;rsquo;ouvre dans une visionneuse. Vous pourrez ainsi afficher le contenu du document, que ce soit un fichier texte, une image, un PDF, ou tout autre type de document supporté par la plateforme.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;visionneuse.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Alimenter le DMP</title>
+      <link>/guide/dmp/documents/ajouter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/dmp/documents/ajouter/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Ajouter un documents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour alimenter le DMP, il vous suffit de cliquer sur &lt;em&gt;&lt;strong&gt;&amp;ldquo;Ajouter un document&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; dans la barre de menu. Cela vous redirige vers la page de soumission, où vous pouvez facilement ajouter de nouveaux documents au dossier médical du patient.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;addDocument.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Lorsque vous cliquez sur &lt;em&gt;&lt;strong&gt;&amp;ldquo;Choisissez un ou plusieurs fichiers&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;, cela ouvre votre explorateur de fichiers. Vous pourrez ensuite sélectionner les documents que vous souhaitez importer. Une fois sélectionné, le document s&amp;rsquo;affiche sur la page, confirmant ainsi son importation dans le DMP du patient. Vous pouvez ainsi ajouter plusieurs documents en une seule fois pour une gestion pratique et rapide des informations médicales.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;addDocumentWithDoc.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Editer les informations document&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour éditer le document que vous avez sélectionné, vous devez cliquer sur l&amp;rsquo;icône en forme de petit crayon. Cette action ouvre l&amp;rsquo;interface d&amp;rsquo;édition du document, où vous pouvez apporter les modifications nécessaires. Vous pouvez mettre à jour les informations, corriger des erreurs ou effectuer toute autre modification pertinente pour améliorer le contenu du document. Une fois les modifications effectuées, n&amp;rsquo;oubliez pas de sauvegarder vos changements pour que le document mis à jour.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;editInfoDoc.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Pour choisir la nomenclature, suivez ces étapes simples :&lt;/p&gt;
+&lt;p&gt;Tout d&amp;rsquo;abord, sélectionnez le type de nomenclature que vous souhaitez utiliser à partir des options disponibles. Vous pouvez choisir parmi ces deux differents type : &lt;strong&gt;CIM10&lt;/strong&gt; ou &lt;strong&gt;CCAM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Une fois que vous avez choisi le type de nomenclature, cliquez sur le champ de saisie situé à droite de l&amp;rsquo;option sélectionnée. Cette action ouvre une fenêtre contextuelle (popup) qui vous permet de rechercher la nomenclature spécifique que vous souhaitez associer au document ou à l&amp;rsquo;action en cours.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;nomenclature.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Soumission des documents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Après avoir ajouté et édité les documents souhaités, vous pouvez les enregistrer en cliquant sur &lt;em&gt;&lt;strong&gt;&amp;ldquo;Soumettre les documents&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;. Une fois que vous avez cliqué sur ce bouton, le processus d&amp;rsquo;enregistrement commence.&lt;/p&gt;
+&lt;p&gt;Veuillez noter que le temps nécessaire pour terminer l&amp;rsquo;enregistrement dépend de la taille des documents et de la vitesse de votre connexion internet. Soyez patient pendant que les documents sont traités et sauvegardés dans le système.&lt;/p&gt;
+&lt;p&gt;Une fois que l&amp;rsquo;enregistrement est terminé, vous êtes informé par l&amp;rsquo;apparition d&amp;rsquo;une fenêtre contextuelle (pop-up). Cette fenêtre contextuelle vous confirme que l&amp;rsquo;enregistrement des documents a été réussi. Vous pouvez ensuite allé les consulter.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Rechercher les documents</title>
+      <link>/guide/dmp/documents/rechercher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/dmp/documents/rechercher/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Rechercher les documents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En cliquant sur &lt;em&gt;&lt;strong&gt;&amp;ldquo;Filtres&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;, vous voyez s&amp;rsquo;afficher les différentes options de filtrage disponibles. Vous pouvez définir des filtres en fonction du statut du document, de sa classe et de son type, de sa visibilité, de ses dates, et bien plus encore.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Chaque fois que vous appliquez un filtre, la page des documents en haut affichera les filtres actifs pour vous permettent de visualiser facilement les critères de recherche en cours. Si vous le souhaitez, vous pouvez supprimer les filtres en accédant aux &lt;strong&gt;&amp;ldquo;Paramètres des filtres&amp;rdquo;&lt;/strong&gt; où vous avez la possibilité de réinitialiser tous les filtres appliqués.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;image-1.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Alternativement, si vous souhaitez supprimer un filtre spécifique, il vous suffit de cliquer sur la croix à côté du filtre dans la liste située en haut de la page. Cela désactive ce filtre particulier sans affecter les autres filtres actifs.&lt;/p&gt;
+&lt;p&gt;En utilisant ces fonctionnalités de filtrage, vous pouvez affiner vos recherches et trouver rapidement les documents spécifiques dont vous avez besoin.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Actions possibles</title>
+      <link>/guide/dmp/documents/menu_document/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/dmp/documents/menu_document/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Lorsque vous cliquez sur l&amp;rsquo;icône des trois petits points à côté d&amp;rsquo;un document dans le DMP, un menu déroulant s&amp;rsquo;affiche avec plusieurs actions possibles que vous pouvez effectuer sur le document :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;menu.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Visualiser les entêtes&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : Cette option vous permet de visualiser toutes les métadonnées du document. Vous pouvez ainsi consulter les informations telles que le nom du document, la date de création, l&amp;rsquo;auteur, la taille du fichier, etc.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Modifier la visibilité&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : En sélectionnant cette option, une pop-up s&amp;rsquo;ouvre, vous permettant de modifier la visibilité du document par rapport aux différents acteurs concernés, tels que les professionnels de santé, le patient et le représentant légal.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Archiver&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : Cette action permet d&amp;rsquo;archiver le document, le rendant accessible ultérieurement, mais le retirant temporairement de la liste des documents actifs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Télécharger&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : Cette option vous permet de télécharger le document sur votre appareil, vous permet ainsi de le sauvegarder localement.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Visualiser&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : En sélectionnant cette option, vous pouvez visualiser le document à l&amp;rsquo;aide d&amp;rsquo;une visionneuse intégrée au système, vous permettant d&amp;rsquo;examiner le contenu du document sans le télécharger.
+&lt;a href=&#34;../consulter//&#34;&gt;&lt;strong&gt;Voir : Visualiser le document&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pour les documents soumis par vous-même, deux actions supplémentaires sont disponibles :&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Remplacer&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : Cette option vous permet de remplacer le document soumis en téléchargeant une version mise à jour du document sur la page de soumission. Cela est utile si vous avez besoin de corriger des erreurs ou de mettre à jour le contenu du document.
+&lt;a href=&#34;../ajouter/&#34;&gt;&lt;strong&gt;Voir : Ajouter un documents&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Supprimer&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : Si nécessaire, vous pouvez utiliser cette action pour supprimer le document soumis. Assurez-vous de confirmer votre choix car la suppression du document est généralement définitive et ne peut pas être annulée.&lt;/p&gt;
+&lt;p&gt;Ces actions vous offrent une flexibilité pour gérer les documents dans le DMP du patient et faciliter la manipulation des informations médicales en fonction de vos besoins et de vos responsabilités en tant que professionnel de santé.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

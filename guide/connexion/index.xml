@@ -1,0 +1,132 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevBox-Santé pour les Professionnels de Santé – Connexion</title>
+    <link>/guide/connexion/</link>
+    <description>Recent content in Connexion on DevBox-Santé pour les Professionnels de Santé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	  <atom:link href="/guide/connexion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Guide: Connexion via CPS</title>
+      <link>/guide/connexion/connexion_cps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/connexion/connexion_cps/</guid>
+      <description>
+        
+        
+        &lt;p&gt;En tant que professionnel de santé vous devez préalablement avoir votre CPS ou (Carte de Professionnel de santé), pour pouvoir vous connecter. De plus il vous faut aussi la carte vitale du patient afin de se connecter à son dossier médical partagé.&lt;/p&gt;
+&lt;p&gt;Vous devrez ensuite insérer les cartes dans les lecteurs dédier et commencer les étapes suivantes.&lt;/p&gt;
+&lt;p&gt;Une fois que vous êtes sur la page d&amp;rsquo;accueil du système, cliquez sur le bouton &lt;em&gt;&lt;strong&gt;&amp;ldquo;Se connecter via CPS&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; pour entamer la procédure de connexion. Cela vous permet d&amp;rsquo;authentifier votre identité en tant que professionnel de santé autorisé et de vous connecter en toute sécurité au système.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;identification.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Une nouvelle page s&amp;rsquo;affichera vous demandant d&amp;rsquo;insérer votre CPS (Carte de Professionnel de santé) dans le lecteur dédié.&lt;/p&gt;
+&lt;p&gt;Une fois que la carte est détectée par le système, un pop-up apparaîtra, vous invitant à saisir votre code PIN associé à votre CPS. Cela permet de confirmer votre identité en tant que professionnel de santé.&lt;/p&gt;
+&lt;div style=&#34;display: flex;&#34;&gt;
+  &lt;img src=&#34;cpsPIN.png&#34; style=&#34;width: 50%; margin-right: 10px;&#34; /&gt;
+  &lt;img src=&#34;cpsError.png&#34; style=&#34;width: 50%;&#34; /&gt;
+&lt;/div&gt;
+&lt;p&gt;Si votre CPS (Carte de Professionnel de santé) n&amp;rsquo;est pas insérée dans le lecteur ou si elle n&amp;rsquo;est pas détectée correctement, le système vous en informe.&lt;/p&gt;
+&lt;p&gt;Après avoir renseigné avec succès votre code PIN associé à votre CPS (Carte de Professionnel de santé), vous serez invité à sélectionner la structure à laquelle vous êtes rattaché si vous êtes affilié à plusieurs structures.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;selectStructure.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;!-- [Identifiant de facturation](/guide/connexion/identifiant_facturation/) --&gt;
+&lt;p&gt;&lt;a href=&#34;../identifiant_facturation/&#34;&gt;&lt;strong&gt;Etape suivante : Identifiant de facturation&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Identifiant de facturation</title>
+      <link>/guide/connexion/identifiant_facturation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/connexion/identifiant_facturation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Renseigner l&amp;rsquo;identifiant de facturation lors de la connexion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Après avoir sélectionné votre structure, il peut vous être demandé de renseigner votre identifiant de facturation si celui-ci n&amp;rsquo;est
+pas déjà connu par le système.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;identifiant de facturation est un numéro unique composé de 9 chiffres qui est utilisé pour identifier votre structure de santé&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;inputIDFacturation.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Une fois que vous avez saisi votre identifiant de facturation dans le champ dédié, vous pouvez confirmer en cliquant sur le bouton &lt;em&gt;&lt;strong&gt;&amp;ldquo;Valider&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; ou simplement en appuyant sur la touche &lt;strong&gt;&amp;ldquo;ENTRÉE&amp;rdquo;&lt;/strong&gt; de votre clavier.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../selection_patient/&#34;&gt;&lt;strong&gt;Étape suivante : selection patient&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Modifier l&amp;rsquo;identifiant de facturation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dans l&amp;rsquo;application, une fois que vous êtes connecté, vous avez la possibilité de modifier votre identifiant de facturation en accédant à la section associée à votre profil professionnel.&lt;/p&gt;
+&lt;p&gt;Pour cela, vous pouvez cliquer sur l&amp;rsquo;icône &lt;strong&gt;&amp;ldquo;PS&amp;rdquo;&lt;/strong&gt; (&amp;ldquo;Professionnel de Santé&amp;rdquo;) qui se trouve généralement en haut à droite ou dans un menu déroulant.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;appBar.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Lorsque vous cliquez sur cette icône, une pop-up ou une fenêtre contextuelle s&amp;rsquo;ouvrira, vous présentant les informations de votre profil professionnel, y compris votre identifiant de facturation actuel.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;changeIDFacturation.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Après avoir entré le nouvel identifiant, assurez-vous de cliquer sur &lt;em&gt;&lt;strong&gt;&amp;ldquo;Confirmer&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Connexion au DMP</title>
+      <link>/guide/connexion/selection_patient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/connexion/selection_patient/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Selection du patient lors de la connexion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour sélectionner un patient dans l&amp;rsquo;application, la carte vitale du patient doit être insérée dans le lecteur approprié.&lt;/p&gt;
+&lt;p&gt;Lorsque vous souhaitez accéder au dossier médical partagé d&amp;rsquo;un patient spécifique, vous devrez insérer la carte vitale de ce patient dans le lecteur de carte vitale prévu à cet effet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;scanVitale.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Si la carte vitale du patient n&amp;rsquo;est pas détectée par le système, vous serez informé de cette situation.&lt;/p&gt;
+&lt;p&gt;Une fois que la carte vitale du patient est détectée avec succès, la liste des patients bénéficiaires associés à cette carte vitale s&amp;rsquo;affiche.&lt;/p&gt;
+&lt;p&gt;Vous pourrez alors choisir un patient parmi la liste proposée pour accéder à son dossier médical partagé.&lt;/p&gt;
+&lt;p&gt;En plus de sélectionner un patient, vous aurez également la possibilité de &lt;em&gt;&lt;strong&gt;&amp;ldquo;lire la carte vitale&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; à nouveau si besoin. Cette option vous permet de réactualiser les informations de la carte vitale du patient au cas où des mises à jour auraient été effectuées depuis la dernière lecture.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;selectPatient.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../autorisation/&#34;&gt;&lt;strong&gt;Étape suivante : autorisation&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Autorisation patient</title>
+      <link>/guide/connexion/autorisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/connexion/autorisation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Identito Vigilance&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lorsque vous vous connectez au DMP d&amp;rsquo;un patient, il est essentiel de vérifier son identité pour des raisons de sécurité et de confidentialité des données médicales.&lt;/p&gt;
+&lt;p&gt;Afin de confirmer l&amp;rsquo;identité du patient, une pop-up s&amp;rsquo;affiche, vous demandant de spécifier le statut de l&amp;rsquo;identité du patient. Vous aurez plusieurs options pour décrire le statut de l&amp;rsquo;identité du patient :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Valide&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : l&amp;rsquo;identification du patient a pu être vérifiée correctement.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;Douteuse&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;,&lt;em&gt;&lt;strong&gt;&amp;ldquo;Fictive&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;,&lt;em&gt;&lt;strong&gt;&amp;ldquo;Non Vérifiée&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; : Il existe des situations où il n’est pas possible d’identifier un usager avec sa véritable identité (rniv_2_identitovigilance_etablissement_sante_v1.3):&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;accueil d’un usager non accompagné non communiquant ou délirant ;&lt;/li&gt;
+&lt;li&gt;accueil massif de victimes en situation sanitaire exceptionnelle ;&lt;/li&gt;
+&lt;li&gt;usager faisant valoir son droit à une prise en charge anonyme.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;identitoVigilance.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Demande d&amp;rsquo;accès&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trois modes d&amp;rsquo;accès son possible pour le DMP:&lt;/p&gt;
+&lt;p&gt;Si vous avez l&amp;rsquo;autorisation du patient pour accéder à son DMP, vous devez cocher la première case correspondante. Le patient vous a donné son consentement pour consulter ses informations médicales, ce qui vous permettra d&amp;rsquo;accéder à son dossier en toute légalité et confidentialité.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;accesDMP.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Soit vous n&amp;rsquo;avez pas l&amp;rsquo;autorisation mais vous devez absolument y accéder, alors vous devez passer en mode brise glace. Mais dans ce cas-là, vous devez préciser la raison.
+Le mode d’accès &lt;strong&gt;« bris de glace »&lt;/strong&gt; doit etre utilisé lorsque on a besoin de consulter le DMP d’un patient en cas d’urgence, sans avoir la possibilité de lui demander son autorisation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;accesBrisDeGlace.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ou tous simplement vous pouvez annuler, si vous ne disposez pas de l&amp;rsquo;autorisation du patient et que vous n&amp;rsquo;avez pas besoin d&amp;rsquo;accéder au DMP en mode &amp;ldquo;Bris de glace&amp;rdquo;, vous pouvez simplement annuler l&amp;rsquo;accès. Dans ce cas, vous ne pourrez que contribuer à l&amp;rsquo;alimentation du DMP du patient, sans accéder à ses informations médicales confidentielles.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

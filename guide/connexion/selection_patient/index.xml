@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevBox-Santé pour les Professionnels de Santé – Connexion au DMP</title>
+    <link>/guide/connexion/selection_patient/</link>
+    <description>Recent content in Connexion au DMP on DevBox-Santé pour les Professionnels de Santé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	  <atom:link href="/guide/connexion/selection_patient/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

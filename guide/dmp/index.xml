@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevBox-Santé pour les Professionnels de Santé – DMP du patient</title>
+    <link>/guide/dmp/</link>
+    <description>Recent content in DMP du patient on DevBox-Santé pour les Professionnels de Santé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	  <atom:link href="/guide/dmp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Guide: Fiche patient</title>
+      <link>/guide/dmp/fichepatient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/dmp/fichepatient/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Informations Patient&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La Fiche patient est la première page que vous rencontrerez lors de votre utilisation du site web. Elle contient des informations essentielles sur le patient, telles que son prénom, son nom, sa date de naissance, et d&amp;rsquo;autres détails pertinents.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;profil.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En haut de la page, vous trouverez donc les informations personnelles du patient, telles que son prénom, son nom de famille, sa date de naissance et tout autre détail nécessaire pour l&amp;rsquo;identifier correctement.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Autorisation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il est également important de noter que sur cette page, vous trouverez une section dédiée aux autorisations du médecin sur le patient actuel. Cette section vous permet de définir  l&amp;rsquo;autorisation du médecin par rapport aux DMP du patient.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;autorisation.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Vous verrez une case à cocher à côté de chaque autorisation spécifique. Si vous décidez de décocher une des cases, cela signifie que vous souhaitez retirer cette autorisation spécifique. Le système vous demandera alors de definir une nouvelle autorisations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../connexion/droit_acces/&#34;&gt;&lt;strong&gt;Voir: Demande d’accès&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tableau de bord&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En bas de la page, vous verrez deux boutons importants :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dashboardPS.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Bouton Dashboard du médecin : En cliquant sur ce bouton, vous accéderez au tableau de bord réservé aux médecins. Il  de simplifier l’accès du PS à certaines fonctionnalités du système DMP directement depuis le LPS.&lt;/p&gt;
+ &lt;!-- Ce tableau de bord offre des fonctionnalités avancées et des outils spécifiques aux médecins pour gérer les dossiers et les soins des patients. --&gt;
+&lt;p&gt;&lt;img src=&#34;dashboardPatient.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Bouton Dashboard du patient : En cliquant sur ce bouton, vous serez redirigé vers le tableau de bord du patient.&lt;/p&gt;
+&lt;!-- Le tableau de bord du patient offre des fonctionnalités adaptées aux patients, leur permettant de consulter leurs informations médicales, de prendre rendez-vous, de communiquer avec leur médecin, etc. --&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Documents</title>
+      <link>/guide/dmp/documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/dmp/documents/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Vous pouvez facilement gérer tous les documents importants liés aux patients. Vous avez la possibilité de télécharger, visualiser et partager en toute sécurité les résultats des tests médicaux, les rapports de laboratoire, les images médicales, et bien plus encore.&lt;/p&gt;
+&lt;p&gt;Après avoir cliqué sur &lt;em&gt;&amp;ldquo;documents&amp;rdquo;&lt;/em&gt;, tous les documents qui s&amp;rsquo;affichent sont trié par date de soumission et par mois.
+&lt;img src=&#34;documents.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Guide: Historique de vaccination</title>
+      <link>/guide/dmp/historique-de-vaccination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/guide/dmp/historique-de-vaccination/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Lorsque vous accédez à la page de l&amp;rsquo;historique de vaccination, vous pouvez consulter toutes les vaccinations enregistrées pour le patient.Vous pouvez rapidement et facilement accéder à toutes les informations concernant les vaccinations passées du patient. Cela vous permet de garder une trace complète des vaccins administrés et de suivre le calendrier de vaccination&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;historique.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Lorsque vous cliquez sur l&amp;rsquo;une des vaccinations répertoriées dans l&amp;rsquo;historique de vaccination, vous avez accès à toutes ses métadonnées et informations détaillées.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;metadonnees.png&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
